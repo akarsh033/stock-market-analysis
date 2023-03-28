@@ -1,19 +1,15 @@
-# Stock Market
-FreeCodeCam backend Project || Application that provide stock market data and allow users to add and remove stocks  and also have a realtime data update.
+# Stock-Market-Analysis
+A beatiful and compact React application with dashboard that provides stock market data and allow users to add and remove stocks and also have a realtime data update.
 
-![stock-market](src/assets/img/stock-market.png)
-## phone view
-![stock-market](src/assets/img/stock-market-phone.png)
+![image](https://user-images.githubusercontent.com/47480242/228151911-d99220e2-641e-4e3e-b8c1-ceb514af618f.png)
 
 ## [User Stories](https://www.freecodecamp.org/challenges/chart-the-stock-market)
 
-- User Story: I can view a graph displaying the recent trend lines for each added stock.
+- User Story: I can view a graph displaying the recent trends for the added stocks.
 
-- User Story: I can add new stocks by their symbol name.
+- User Story: I can remove/add new stocks by their listing name.
 
-- User Story: I can remove stocks.
-
-- User Story: I can see changes in real-time when any other user adds or removes a stock. For this you will need to use Web Sockets.
+- User Story: I can see changes in real-time when any other user adds or removes a stock. For this we need to use Web Sockets.
 
 ## Built with
 Frontend:
